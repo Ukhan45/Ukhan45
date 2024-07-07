@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ukhan45
+- 👋 Hi, I’m Usama Bin Arif
 - 👀 I’m interested in Data Science and Python Development
 - 🌱 I’m currently learning BS Software Engineering
 - 💞️ I’m looking to collaborate on multiple projects like Python Development,Data Analyst and Data Science
